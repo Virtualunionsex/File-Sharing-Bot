@@ -60,6 +60,8 @@ python3 main.py
 * `FORCE_SUB_MESSAGE` Opsional: Pesan Paksa Subscribe bot, Gunakan Format parsemode HTML
 * `FORCE_SUB_CHANNEL` Masukan ID dari Channel Untuk Wajib Subscribenya
 * `FORCE_SUB_CHANNEL1` Masukan ID dari Channel Untuk Wajib Subscribenya
+* `FORCE_SUB_CHANNEL2` Masukan ID dari Channel Untuk Wajib Subscribenya
+* `FORCE_SUB_CHANNEL3` Masukan ID dari Channel Untuk Wajib Subscribenya
 * `FORCE_SUB_GROUP` Masukan ID dari Group Untuk Wajib Subscribenya
 * `FORCE_SUB_GROUP1` Masukan ID dari Group Untuk Wajib Subscribenya
 
